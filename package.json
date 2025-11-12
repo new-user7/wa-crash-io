@@ -1,0 +1,17 @@
+json
+{
+  "name": "whatsapp-crash-bot",
+  "version": "1.0.0",
+  "description": "A powerful WhatsApp bot to crash and destroy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.0",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "qrcode-terminal": "^0.11.0"
+  }
+}
